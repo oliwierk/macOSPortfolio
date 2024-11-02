@@ -5,6 +5,7 @@ export default {
 		extend: {
 			backgroundImage: {
 				wallpaper: "url('src/assets/wallpaper.jpg')",
+				homeWallpaper: "url('src/assets/homeWallpaper.jpg')",
 			},
 		},
 	},
